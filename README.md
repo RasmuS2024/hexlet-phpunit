@@ -1,6 +1,6 @@
 # php-package
 
-[![Github Actions Status](https://github.com/hexlet-boilerplates/php-package/workflows/PHP%20CI/badge.svg)](https://github.com/RasmuS2024/hexlet-phpunit/actions)
+[![Github Actions Status](https://github.com/RasmuS2024/hexlet-phpunit/workflows/PHP%20CI/badge.svg)](https://github.com/RasmuS2024/hexlet-phpunit/actions)
 
 ## Prerequisites
 
